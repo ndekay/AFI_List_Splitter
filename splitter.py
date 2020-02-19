@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
+
 """Reads an input text file containing downloaded AFI Top 100 movie data and builds a CSV containing Rank and Title."""
+
 
 import csv
 
